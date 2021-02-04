@@ -34,5 +34,5 @@ This add-on is provided "AS IS" without any warranty, either expressed or implie
 BrowsingHistoryView is distributed with this add-on as permitted by the License section on [the BrowsingHistoryView website](www.nirsoft.net/utils/browsing_history_view.html). All files in the 32-bit and 64-bit distribution packages are included, without any modification, inside this add-on's bin/32 and bin/64 directories, respectively.
 
 # Binary File Declaration
-
-For Splunk's AppInspect: bin/32/BrowsingHistoryView.exe and bin/64/BrowsingHistoryView.exe are small utilities which grab internet browsing history.
+### For Splunk's AppInspect:
+bin/32/BrowsingHistoryView.exe and bin/64/BrowsingHistoryView.exe are small utilities which grab internet browsing history.
