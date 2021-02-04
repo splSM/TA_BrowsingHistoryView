@@ -1,8 +1,7 @@
 # BrowsingHistoryView Add-on for Splunk©
 ### by Aaron Chandler
 
-Featuring:
-## BrowsingHistoryView v2.46
+## Featuring: **BrowsingHistoryView v2.46**
 ### © Nir Sofer
 ### www.nirsoft.net/utils/browsing_history_view.html
 
