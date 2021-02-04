@@ -3,7 +3,7 @@
 
 ## Featuring: **BrowsingHistoryView v2.46** © Nir Sofer www.nirsoft.net/utils/browsing_history_view.html
 
-This wee add-on is intended for deployment to Windows clients (my thought was workstations, but I suppose Windows servers with a web browser in use could be a data source, too).
+This add-on is intended for deployment to Windows clients (my thought was workstations, but I suppose Windows servers with a web browser in use could be a data source, too).
 
 A little .bat script will run every hour and obtain the client's internet browsing history in an XML file, which Splunk will then parse using the provided sourcetype.
 
