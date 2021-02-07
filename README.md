@@ -31,7 +31,7 @@ This add-on uses BrowsingHistoryView, which is released as freeware. Freeware ma
 
 This add-on is provided "AS IS" without any warranty, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The author will not be liable for any special, incidental, consequential or indirect damages due to loss of data or any other reason.
 
-BrowsingHistoryView is distributed with this add-on as permitted by the License section on [the BrowsingHistoryView website](www.nirsoft.net/utils/browsing_history_view.html). All files in the 32-bit and 64-bit distribution packages are included, without any modification, inside this add-on's bin/32 and bin/64 directories, respectively.
+BrowsingHistoryView is distributed in this add-on with the express written permission of its author, and more generally as permitted by the License section on [the BrowsingHistoryView website](www.nirsoft.net/utils/browsing_history_view.html). All files in the 32-bit and 64-bit distribution packages are included, without any modification, inside this add-on's bin/32 and bin/64 directories, respectively.
 
 # Binary File Declaration
 ### For Splunk's AppInspect:
